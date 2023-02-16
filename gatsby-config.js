@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://running-page-tlr.pages.dev',
+    siteUrl: 'https://jiantian99.github.io/running-page/',
     logo: 'https://i.imgtg.com/2023/01/26/SRR4S.jpg',
     description: 'Personal site and blog',
     navLinks: [
