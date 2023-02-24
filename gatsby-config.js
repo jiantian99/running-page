@@ -7,8 +7,8 @@ module.exports = {
     description: 'Personal site and blog',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://running-blog.pages.dev/',
+        name: 'Strava',
+        url: 'https://www.strava.com/athletes/111314187',
       },
       {
         name: 'About',
